@@ -11,7 +11,7 @@
     background-color: #CDE0E7;
     display: flex;
     justify-content: center;
-    align-content: center;
+    align-items: center;
 }
  .card {
     height: 450px;
